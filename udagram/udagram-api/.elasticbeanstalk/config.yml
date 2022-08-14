@@ -14,8 +14,8 @@ global:
   instance_profile: null
   platform_name: null
   platform_version: null
-  #profile: default
-  profile: null
+  profile: default
+  #profile: null
   repository: null
   sc: null
   workspace_type: Application
