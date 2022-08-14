@@ -37,3 +37,4 @@ UserInterfaceState.xcuserstate
 node_modules
 venv/
 .env
+# Elastic Beanstalk Files
