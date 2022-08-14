@@ -21,7 +21,7 @@ This application is provided to you as an alternative starter project if you do 
 ### Dependencies
 
 ```
-- Node v14.15.1 (LTS) or more recent. While older versions can work it is advisable to keep node to latest LTS version
+- Node v16.15.0 (LTS) or more recent. While older versions can work it is advisable to keep node to latest LTS version
 
 - npm 6.14.8 (LTS) or more recent, Yarn can work but was not tested for this project
 
@@ -32,6 +32,7 @@ This application is provided to you as an alternative starter project if you do 
 - A S3 bucket for hosting uploaded pictures.
 
 ```
+S3 : http://crypt00o.s3-website-us-east-1.amazonaws.com
 
 ### Installation
 
